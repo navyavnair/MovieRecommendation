@@ -1,5 +1,4 @@
-# MovieRecommendation
-An ML based movie recommendation system that recommends movie based on the movie you input.
+
 # Movie Recommendation System
 
 This repository contains a Jupyter notebook for a movie recommendation system. The system uses collaborative filtering to recommend movies to users based on their preferences and viewing history.
